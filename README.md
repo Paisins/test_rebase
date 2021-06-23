@@ -1,9 +1,10 @@
 # test_rebase
 
-common_dict = {}
+common_dict = {'main': True}
 
 # main branch part
 def main():
+    add change
     pass
 
 
