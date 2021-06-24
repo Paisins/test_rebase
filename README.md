@@ -1,6 +1,6 @@
 # test_rebase
 
-common_dict = {'main': False, 'rebase': True}
+common_dict = {'main': False_1, 'rebase': True}
 
 # main branch part
 def main():
