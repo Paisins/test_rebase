@@ -3,3 +3,6 @@ rebase branch change here
 add change
 
 add change
+
+add change test rebase -i #1
+add change test rebase -i #2
